@@ -1,0 +1,15 @@
+SELECT equipment.production_year, equipment_methods.id_equipment FROM equipment INNER JOIN equipment_methods on (equipment.id_equipment=equipment_methods.id_equipment)
+SELECT equipment.name,overview.id_overview FROM equipment INNER JOIN overview ON (equipment.id_equipment=overview.id_overview)
+SELECT methods.naame, equipment_methods.id_user FROM methods INNER JOIN equipment_methods ON (methods.id_methods=equipment_methods.id_methods)
+SELECT user.id_user, authority.id_authority FROM user INNER JOIN authority ON (user.id_user=authority.id_user)
+SELECT authority.id_user, position_list.position_name FROM authority JOIN position_list on (authority.id_position_list=position_list.id_position_list)
+SELECT samples_lista.details, samples.temp, samples.id_experiments, samples.collection_date FROM samples_lista JOIN samples ON (samples_lista.id_samples_list=samples.id_samples_list)
+
+SELECT samples.collection_date, experiments.start_date, projects.project_details, project_workers.id_user FROM samples 
+    JOIN experiments on (samples.id_experiments=experiments.id_experiments) 
+    JOIN projects ON (experiments.id_projects=projects.id_projects) 
+    JOIN project_workers ON (projects.id_projects=project_workers.id_projects)
+
+SELECT user.name, projects.name, project_workers.id_projects FROM user 
+    JOIN projects ON (user.id_user=projects.id_projects) 
+    JOIN project_workers ON (projects.id_projects=project_workers.id_projects)
