@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dodaj projekt</title>
+    <link rel="stylesheet" href="styl1.css">    
+</head>
+<body>
+<div id="menu">
+    <a class="strona" href="strona.html">Główna</a>
+    <a class="projekty" href="Projekty.php">Projekty zrealizowane</a>
+    <a class="eksperymenty" href="Eksperymenty.php">Eksperymenty</a>
+    <a class="dodaj" href="Dodaj_projekt.html">Dodaj Projekt</a>
+</div>
+<div id="log">
+    <a href="glowna.html">Wyloguj się</a>
+</div>
+<div id="glowna">
+    <h1>Dodaj projekt</h1>
+    <form method="POST" action="Dodaj_projekt.php">
+        <label for="responsible">Osoba odpowiedzialna:</label>
+        <input type="text" name="responsible" id="responsible">
+
+        <label for="name">Nazwa:</label>
+        <input type="text" name="name" id="name">
+
+        <label for="start">Data rozpoczęcia:</label>
+        <input type="date" name="start" id="start">
+
+        <label for="finish">Data zakończenia:</label>
+        <input type="date" name="finish" id="finish">
+
+        <label for="details">Opis:</label>
+        <textarea name="details" id="details"></textarea>
+
+        <input type="submit" value="Dodaj projekt">
+    </form>
+</div>
+<footer>
+    <h3>Stronę przygotowali: Daria Plewa, Julia Piasecka, Jakub Niedziołka</h3>
+</footer>
+</body>
+</html>
