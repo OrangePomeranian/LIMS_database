@@ -30,4 +30,28 @@ case they forget it.
 
 Below we present the final result of our project.
 
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/62838328-9c74-4500-a68c-c798d051faac)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/eb4e082c-c316-45e4-8e1a-beb573c56bd8)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/288cf3e1-eb6c-467b-8768-3d4ce61b8d2b)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/e1e01bed-23ab-4e40-863f-6ffe2bdfdf3b)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/229d6a63-ab5f-4bea-9857-39ac0fc1ce53)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/5ead4b9c-e011-4a2c-82df-5ede4e941618)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/13b11f05-35e6-463e-8468-f01c37c7ed26)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/6ab0186b-317e-478a-966a-6b022b6549b8)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/86046c2a-4b40-44a0-ad6f-136d8d372ca3)
+
+![image](https://github.com/OrangePomeranian/LIMS_database/assets/67764136/621a1427-4493-4391-9d48-0255dae96dc0)
+
+
+
+
+
 
