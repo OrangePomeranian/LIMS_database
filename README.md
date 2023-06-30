@@ -27,4 +27,23 @@ case they forget it.
 - Tab with a description of the equipment and the procedures of the processes performed with it.
 - Transition from the rows in the experiments table to information about the samples used in the experiments process.
 
-Below I present the final result of our project.
+Below we present the final result of our project.
+
+![Screenshot 2023-06-30 at 13 57 52](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/9dd6fe57-0e99-41f2-9de1-2a498712d814)
+
+
+![Screenshot 2023-06-30 at 13 58 51](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/a40c2afa-5d4d-49c3-affc-4f92e9e3f875)
+
+![Screenshot 2023-06-30 at 14 00 22](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/c57569b5-3380-40ef-a7bf-b05505310d6d)
+
+![Screenshot 2023-06-30 at 14 00 56](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/e9f0de4c-8e57-40ee-bbfd-519470c11541)
+
+![Screenshot 2023-06-30 at 14 01 26](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/ed505767-9e23-41b7-abe4-db6cb8d29854)
+
+![Screenshot 2023-06-30 at 14 10 05](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/a5948293-e569-4969-a46a-d75e2881daf7)
+
+![Screenshot 2023-06-30 at 14 10 30](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/37e5fed5-09a4-4c62-9358-6fa0640ffb73)
+
+![Screenshot 2023-06-30 at 14 10 57](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/b15605e0-5451-40c0-9248-584af555cc16)
+
+![Screenshot 2023-06-30 at 14 11 10](https://github.com/OrangePomeranian/Medical_Databases/assets/67764136/a258a8ba-0e7c-4540-9f1f-f7fd740ed694)
